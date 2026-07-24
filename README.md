@@ -1,5 +1,5 @@
 # 💫 About Me:
-## 👩‍💻 About Me<br><br>🎓 Computer Science Engineering student (CGPA: 9.28)<br><br>💻 Passionate about Software Development, AI/ML, and Full-Stack Development.<br><br>🔭 Currently building MediTriage and exploring Personalized Federated Learning.<br><br>🌱 Learning Spring Boot, React, Docker, and System Design.<br><br>👯 Open to collaborating on Java, AI/ML, and Open Source projects.<br><br>💬 Ask me about Java, Python, DSA,  Git, and Machine Learning.<br><br>⚡ Goal: Build scalable software that solves real-world problems.
+<br><br>🎓 Computer Science Engineering student (CGPA: 9.28)<br><br>💻 Passionate about Software Development, AI/ML, and Full-Stack Development..<br><br>🌱 Learning Spring Boot, React, Docker, and System Design.<br><br>👯 Open to collaborating on Java, AI/ML, and Open Source projects.<br><br>⚡ Goal: Build scalable software that solves real-world problems.
 
 
 ## 🌐 Socials:
